@@ -1,0 +1,6 @@
+[book]
+authors = ["Sam Sendelbach"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tidepools"
